@@ -30,7 +30,7 @@ function hypab_init(){
 	
 	if( $hmd->device()->isAndroidOS() ) echo 'Android Device - <a href="market://details?id=com.app_miramont.layout">Download Android App</a>  |  ';
 	else echo 'Not Android  |  ';
-	if( $hmd->device()->isIOS() ) echo 'IOS Device  |  ';
+	if( $hmd->device()->isIOS() ) echo 'IOS Device - <meta name="apple-itunes-app" content="app-id=646462540"> |  ';
 	else echo 'Not IOS Device  |  ';
 	echo  'deviceType = ' . $hmd->device_type();
 	
