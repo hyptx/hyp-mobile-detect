@@ -1,0 +1,10 @@
+#hmd{padding:1em; background:#BEFBBD;}
+#hmd a{display:inline-block; font-weight:bold; border:1px solid #333; padding:4px 10px; background:#fff; margin:0 4px 4px}
+
+/* ~~~~~~ Media Queries ~~~~~~ */
+@media (max-width: 979px){
+	
+}
+@media (max-width: 767px){
+	#hmd{margin-left:-20px; margin-right:-20px}
+}
