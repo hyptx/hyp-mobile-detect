@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Hyp Mobile Detect
-Plugin URI: http://mobiledetect.myhyperspace.com
+Plugin URI: https://github.com/hyptx/hyp-mobile-detect
 Description: Mobile detection for your wordpress site
 Author: Adam J Nowak
 Version: 1.0
